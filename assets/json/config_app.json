@@ -1,0 +1,20 @@
+{
+  "appInfo": {
+    "nameApp": "Profile Page App",
+    "version": "1.0.0"
+  },
+  "userInfo": {
+    "userName": "@JoisephDev",
+    "aboutMe": [
+      "Hi, my name is Joiseph."
+    ],
+    "headerBgImage": "",
+    "profileImage": "",
+    "socialsNetwork": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "github": ""
+    }
+  }
+}
